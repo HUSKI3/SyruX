@@ -1,0 +1,8 @@
+{
+  "name": "Syrux",
+  "version": "1.1p4",
+  "description": "A discord bot",
+  "main": "bot.js",
+  "author": "Retr0",
+  "dependencies": {}
+}
